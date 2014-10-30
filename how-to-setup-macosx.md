@@ -58,6 +58,14 @@ chsh -s /bin/zsh
 wget https://raw.githubusercontent.com/rakd/etc/master/zshrc -O ~/.zshrc
 ```
 
+## vimの設定
+
+.vimrcの準備をする。
+
+```
+wget https://raw.github.com/rakd/etc/master/vimrc -O ~/.vimrc
+```
+
 
 ## ruby用IDEインストール
 
