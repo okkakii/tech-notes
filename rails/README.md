@@ -2,17 +2,16 @@
 
 
 
-## rails関係
+## rails関係、学習資料
 
-下記、上から順番に読んでください。
 バージョンは、 ruby 2.1.4 / rails 4.1.6 / mongoDB 2.6.5 です。
 
-- MacOSX上のrails開発環境セットアップ ( mongodb/rails/ruby)
- - how-to-setup-macosx.md
-- railsことはじめ。with mongoid
- - hello-rails.md
-- railsでrender/レイアウト/alertメッセージなど。
- - hello-rails-alert.md
-- rails/認証関係(作成途中)
- - mongoid-sorcery.md
- 
+シンプルなゲーム系掲示板を題材とします。
+
+- XX-YY.ZZZZZ
+というファイル名規則でファイルを作成しています。
+基本的に上から順番に学習してください。
+
+YYは、00だけを見れば進めることができます。
+
+YYが、01以上のドキュメントは、appendix(=補足説明資料)です。もう少し深く理解が必要な場合に読んでください。
