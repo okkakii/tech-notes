@@ -66,7 +66,7 @@ gamebbsディレクトリ以下は、
 - config/application.rb
 - config/routes.rb
 - db/  
--
+
 
 ## railsの起動
 ```
